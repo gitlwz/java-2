@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contactList>
-	<contact id="001">
+	<contact id="001" class="a1">
 		<name>张三</name>
 		<age>20</age>
 		<phone>134222223333</phone>

@@ -9,5 +9,6 @@
 	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.0.jar" sourcepath="F:/新建文件夹/jy/day01/day01补发资料/commons-beanutils-1.8.0/commons-beanutils-1.8.0-sources.jar"/>
 	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
 	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/jaxen-1.1-beta-6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

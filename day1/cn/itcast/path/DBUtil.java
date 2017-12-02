@@ -32,7 +32,7 @@ public class DBUtil {
 			
 			InputStream inputStream = clazz.getResourceAsStream("/db.properties");  // "/"ด๚ฑํมห
 			
-			properties.load(new FileReader("db.properties"));
+			//properties.load(new FileReader("db.properties"));
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
